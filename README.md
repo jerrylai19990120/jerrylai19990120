@@ -45,10 +45,5 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrylai19990120&theme=prussian&hide_border=true"/>
   </a>
 </p>
-<p align="center">
-  <a>
-    ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=jerrylai19990120&theme=react-dark&hide_border=true&area=true)
-  </a>
-</p>
 
 <br />
