@@ -1,5 +1,5 @@
 # Hey there, I'm Jerry! 👋 
-<a href="https://www.linkedin.com/in/mollyxu4/">
+<a href="https://www.linkedin.com/in/jerry-lai-love-to-code/">
   <img align="left" alt="Jerry's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
