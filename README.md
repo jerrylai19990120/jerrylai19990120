@@ -35,7 +35,7 @@
 ### 📈 My GitHub Stats:
 <p align="center">
 <a href="https://github.com/jerrylai19990120">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrylai19990120&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerrylai19990120&text_color=FFFFFF&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerrylai19990120&count_private=true&hide=stars&show_icons=true&theme=prussian&hide_border=true"/>
 </a>
