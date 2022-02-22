@@ -1,6 +1,10 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/vlwVZMjk5ivdYwkDWT/giphy.gif" width="24px"> Hello World, I'm Jerry! 👋 
 </h1>
+
+<img src="header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+
+<br />
 <a href="https://www.linkedin.com/in/jerry-lai-love-to-code/">
   <img align="left" alt="Jerry's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
