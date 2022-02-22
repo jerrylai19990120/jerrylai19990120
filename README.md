@@ -38,8 +38,9 @@
 </a>
 </p>
 <p align="center">
+  <img height="200" width="200" alt="𝙶𝙸𝙵" src="github.gif">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrylai19990120&theme=prussian&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerrylai19990120&theme=prussian&hide_border=true"/>
   </a>
 </p>
 
