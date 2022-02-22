@@ -44,6 +44,7 @@
 </p>
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
+![Github Contribution Graph](github-contribution-grid-snake.svg)
 
 ![footer](footer.webp)
 
