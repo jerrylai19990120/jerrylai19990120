@@ -42,5 +42,6 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrylai19990120&theme=prussian&hide_border=true"/>
   </a>
 </p>
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
 
 <br />
