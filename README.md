@@ -43,4 +43,6 @@
   </a>
 </p>
 
+![footer](footer.webp)
+
 <br />
