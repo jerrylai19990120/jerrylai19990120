@@ -1,14 +1,24 @@
 name: GitHub Skyline
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.skyline.svg
-  token: NOT_NEEDED
-  base: ''
-  plugin_skyline: yes
-  plugin_skyline_year: 2020
-  plugin_skyline_frames: 6
-  plugin_skyline_quality: 1
-test:
-  timeout: 1800000
-  modes:
-    - action
+on:
+  schedule:
+    - cron: "21 6,18 * * *"
+  workflow_dispatch:
+jobs:
+
+  github-metrics-personal:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Skyline
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.svg
+          token: NOT_NEEDED
+          base: ''
+          plugin_skyline: yes
+          plugin_skyline_year: 2021
+          plugin_skyline_frames: 60
+          plugin_skyline_quality: 1
+        test:
+          timeout: 1800000
+          modes:
+            - action
