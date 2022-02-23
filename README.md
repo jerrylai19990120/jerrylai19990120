@@ -3,6 +3,8 @@
 </h1>
 
 <img src="header.png" alt="banner that says Jerry Lai - software engineer, runner and enthusiast">
+<br/>
+<br/>
 
 ![MadeIcon](https://img.shields.io/badge/Made%20with-Passion-1f425f.svg)
 <a href="https://www.linkedin.com/in/jerry-lai-love-to-code/">
