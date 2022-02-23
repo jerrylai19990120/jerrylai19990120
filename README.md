@@ -5,16 +5,16 @@
 <img src="header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 <a href="https://www.linkedin.com/in/jerry-lai-love-to-code/">
-  <img align="left" alt="Jerry's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 </a>
 <a href="https://github.com/jerrylai19990120">
-  <img align="left" alt="Jerry's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+  ![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 </a>
 <a href="https://thejerrylaiportfolio.com/">
-  <img align="left" alt="Jerry's Portfolio" width="22px" src="https://media.giphy.com/media/YULPJoecGetvtOm1H0/giphy.gif" />
+  ![Portfolio](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)
 </a>
 <a href="https://apps.apple.com/us/developer/yihui-lai/id1542518786">
-  <img align="left" alt="Jerry's Showcase" width="22px" src="https://www.svgrepo.com/show/303110/apple-black-logo.svg" />
+  ![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat&logo=app-store&logoColor=white)
 </a>
 <br/>
 
