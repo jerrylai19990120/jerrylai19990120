@@ -47,6 +47,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerrylai19990120&theme=prussian&hide_border=true"/>
   </a>
 </p>
+<p align="center">
+  <img src="metrics.plugin.skyline.svg" alt="banner that says Jerry Lai - software engineer, runner and enthusiast">
+</p>
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 ![Github Contribution Graph](github-contribution-grid-snake.svg)
