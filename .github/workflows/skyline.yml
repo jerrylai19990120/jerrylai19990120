@@ -1,4 +1,8 @@
 name: GitHub Skyline
+
+on:
+  workflow_dispatch:
+
 uses: lowlighter/metrics@latest
 with:
   filename: metrics.plugin.skyline.svg
