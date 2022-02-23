@@ -18,7 +18,3 @@ jobs:
           plugin_skyline_year: 2021
           plugin_skyline_frames: 60
           plugin_skyline_quality: 1
-        test:
-          timeout: 1800000
-          modes:
-            - action
