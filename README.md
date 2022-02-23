@@ -2,8 +2,9 @@
 <img src="https://media.giphy.com/media/vlwVZMjk5ivdYwkDWT/giphy.gif" width="24px"> Hello World, I'm Jerry! 👋 
 </h1>
 
-<img src="header.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="header.png" alt="banner that says Jerry Lai - software engineer, runner and enthusiast">
 
+![MadeIcon](https://img.shields.io/badge/Made%20with-Passion-1f425f.svg)
 <a href="https://www.linkedin.com/in/jerry-lai-love-to-code/">
   ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 </a>
@@ -49,6 +50,11 @@
 
 ![3D Profile](profile-3d-contrib/profile-night-rainbow.svg)
 ![Github Contribution Graph](github-contribution-grid-snake.svg)
+
+<h2 align="center">
+Feel Free to Connect with Me!  <img src="https://media.giphy.com/media/23D8NR89IoZUC9jgsO/giphy.gif" width="24px">
+</h2>
+<br />
 
 ![footer](footer.webp)
 
